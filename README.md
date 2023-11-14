@@ -14,4 +14,5 @@ pertanian.
 # **Paper**
 
 
-[Paper.pdf](https://github.com/fennyjong/KELOMPOK-3-SVD-MATLAB/files/13345768/Paper.pdf)
+[Paper.pdf](https://github.com/fennyjong/KELOMPOK-3-SVD-MATLAB/files/13345831/Paper.pdf)
+
